@@ -1,5 +1,11 @@
 # INNORIX Cribl Integration
 
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![Cribl](https://img.shields.io/badge/Cribl-Stream-FF6A00)
+![Event Pipeline](https://img.shields.io/badge/Event-Pipeline-00A3E0)
+![License](https://img.shields.io/badge/License-Commercial-red)
+![Status](https://img.shields.io/badge/Status-Official-success)
+
 Official integration example for integrating INNORIX file transfer events with Cribl Stream.
 
 ## Features
